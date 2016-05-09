@@ -99,7 +99,10 @@
       padding: 0.2em 1em;
     }
   }
-
+.locale {
+    float: right;
+    margin: -0.25em 0.1em;  
+  }
   form {
     label {
       width: 5em;
